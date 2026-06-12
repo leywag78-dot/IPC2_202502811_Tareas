@@ -41,5 +41,11 @@ Para que el árbol se considere balanceado, este factor en cada nodo debe ser es
 | **Uso Correcto**          | **Solo lectura.** Consultar datos sin modificar el estado del sistema (ej. ver una lista de productos).                   | **Escritura / Creación.** Enviar formularios o datos pesados que alteran la base de datos (ej. registrar un nuevo usuario).     |
 | **Idempotencia**          | **Sí es idempotente.** Hacer la misma petición GET 100 veces seguidas produce el mismo resultado y no altera el servidor. | **No es idempotente.** Si envías la misma petición POST 5 veces, el servidor intentará crear 5 registros duplicados diferentes. |
 
-Pruebas:
-![[Pasted image 20260611185058.png]]![[Pasted image 20260611185404.png]]![[Pasted image 20260611185430.png]]![[Pasted image 20260611185528.png]]
+PRUEBAS
+
+![GET inicial](./Capturas/1.png)
+![GET inicial](./Capturas/2.png)
+![GET inicial](./Capturas/3.png)
+![GET inicial](./Capturas/4.png)
+![GET inicial](./Capturas/5.png)
+
