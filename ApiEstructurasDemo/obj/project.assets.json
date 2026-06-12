@@ -88,11 +88,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leywa\\Documents\\LabIPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+      "projectUniqueName": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
       "projectName": "ApiEstructurasDemo",
-      "projectPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+      "projectPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
       "packagesPath": "C:\\Users\\leywa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\ApiEstructurasDemo\\obj\\",
+      "outputPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\ApiEstructurasDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\leywa\\AppData\\Roaming\\NuGet\\NuGet.Config"

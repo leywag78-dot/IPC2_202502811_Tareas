@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiEstructurasDemo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f5b652209c1f1fbe642b62fd9e1bd3eb82bbab96")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiEstructurasDemo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiEstructurasDemo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

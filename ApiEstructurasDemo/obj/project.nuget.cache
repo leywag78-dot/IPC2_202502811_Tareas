@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2gkA+quWM5s=",
+  "dgSpecHash": "Ga9K1OhmlJc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\leywa\\Documents\\LabIPC2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+  "projectFilePath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\leywa\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
     "C:\\Users\\leywa\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
