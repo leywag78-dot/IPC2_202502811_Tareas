@@ -188,12 +188,12 @@ Plantilla: `{controller=Home}/{action=Index}/{id?}`
 
 
 
-![[Pasted image 20260617183917.png]]
+![GET inicial](../Capturas/2.1.png)
 
 
 ### Estructura del proyecto:
-![[Pasted image 20260617184807.png]]
-![[2.3.png]]
+![GET inicial](../Capturas/2.2.png)
+![GET inicial](../Capturas/2.3.png)
 
 
 ## Parte 4: Auditoría y Control de Calidad
@@ -213,11 +213,11 @@ Plantilla: `{controller=Home}/{action=Index}/{id?}`
 
 **Validación de principios**:
 
-- ✅ El Controlador no realiza operaciones matemáticas.
+-  El Controlador no realiza operaciones matemáticas.
     
-- ✅ El Controlador no contiene SQL en texto plano.
+-  El Controlador no contiene SQL en texto plano.
     
-- ✅ El Controlador solo extrae datos del modelo y los inyecta en la vista.
+-  El Controlador solo extrae datos del modelo y los inyecta en la vista.
     
 
 ### 2. Evaluación de Antipatrones
