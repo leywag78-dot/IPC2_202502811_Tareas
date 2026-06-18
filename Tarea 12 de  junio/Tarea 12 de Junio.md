@@ -87,7 +87,8 @@ Cliente (Postman/Navegador)  ↔  Servidor Web (ASP.NET Core)  ↔  Recurso (API
 
 ## Parte 2: Implementación Práctica - API de Simulación AVL
 
-![[Pasted image 20260612183101.png|697]]![[Pasted image 20260612183356.png]]
-![[Captura de pantalla 2026-06-12 183542.png]]
-![[Pasted image 20260612183906.png]]
-![[Pasted image 20260612184047.png]]
+![GET inicial](../Capturas/1.1.png)
+![GET inicial](../Capturas/1.2.png)
+![GET inicial](../Capturas/1.3.png)
+![GET inicial](../Capturas/1.4.png)
+![GET inicial](../Capturas/1.5.png)
