@@ -194,6 +194,8 @@ Plantilla: `{controller=Home}/{action=Index}/{id?}`
 ### Estructura del proyecto:
 ![GET inicial](../Capturas/2.2.png)
 ![GET inicial](../Capturas/2.3.png)
+![GET inicial](../Capturas/2.4.png)
+![GET inicial](../Capturas/2.5.png)
 
 
 ## Parte 4: Auditoría y Control de Calidad
