@@ -1,0 +1,5 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/IntegracionDatos.API/IntegracionDatos.API.csproj" />
+  </Folder>
+</Solution>

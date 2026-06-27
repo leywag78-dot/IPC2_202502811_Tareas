@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 11 de junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {}
+    "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 26 de Junio\\IntegracionDatosUSAC\\src\\IntegracionDatos.API\\IntegracionDatos.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 11 de junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj": {
+    "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 26 de Junio\\IntegracionDatosUSAC\\src\\IntegracionDatos.API\\IntegracionDatos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 11 de junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
-        "projectName": "ApiEstructurasDemo",
-        "projectPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 11 de junio\\ApiEstructurasDemo\\ApiEstructurasDemo.csproj",
+        "projectUniqueName": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 26 de Junio\\IntegracionDatosUSAC\\src\\IntegracionDatos.API\\IntegracionDatos.API.csproj",
+        "projectName": "IntegracionDatos.API",
+        "projectPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 26 de Junio\\IntegracionDatosUSAC\\src\\IntegracionDatos.API\\IntegracionDatos.API.csproj",
         "packagesPath": "C:\\Users\\leywa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 11 de junio\\ApiEstructurasDemo\\obj\\",
+        "outputPath": "C:\\Users\\leywa\\Documents\\LabIPC2\\Tarea2\\Tarea 26 de Junio\\IntegracionDatosUSAC\\src\\IntegracionDatos.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leywa\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -49,6 +49,26 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[10.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[10.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[10.0.9, )"
             }
           },
           "imports": [
